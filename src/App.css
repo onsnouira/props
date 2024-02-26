@@ -1,0 +1,10 @@
+body{
+  background-image: url("https://www.marketplace.org/wp-content/uploads/2018/07/GettyImages-453347919.jpg?fit=1800%2C1000");
+}
+
+.list{
+  display: flex;
+  gap: 20px;
+  margin-top: 150px;
+  margin-left: 150px;
+}
